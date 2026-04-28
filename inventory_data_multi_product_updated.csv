@@ -83,4 +83,3 @@ date,product_id,demand,lead_time,ordering_cost,holding_cost_percent,unit_cost
 22-03-2024,A,199,5,50,2,350
 23-03-2024,A,238,5,50,2,350
 24-03-2024,A,246,5,50,2,350
-8
