@@ -16,7 +16,7 @@ df['date'] = pd.to_datetime(df['date'], dayfirst=True)
 data_A = df[df['product_id'] == 'A'].copy()
 
 # -----------------------------
-# FIXED VALUES (as you asked)
+
 # -----------------------------
 D_default = 79438.021   # Demand per year
 S_default = 50          # Ordering cost
