@@ -31,5 +31,5 @@ streamlit run app.py
 ```
 <h3 align="left">📊 Inventory Dashboard</h3>
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/758f02ab-21f4-4931-8655-7df19bd6d0a0" width="80%" />
+  <img src="https://github.com/user-attachments/assets/5e14d9b7-637a-41d0-8e1e-0d075ebe9f5a" width="80%" />
 </p>
