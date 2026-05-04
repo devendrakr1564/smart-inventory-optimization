@@ -4,12 +4,6 @@ A machine learning-based inventory optimization system that combines **SARIMA fo
 
 ---
 
-## 📌 Project Overview
-
-This project aims to improve inventory management by forecasting demand and determining optimal order quantities. It helps in minimizing costs while maintaining efficient stock levels.
-
----
-
 ## ⚙️ Key Features
 
 - 📈 Demand forecasting using **SARIMA**
