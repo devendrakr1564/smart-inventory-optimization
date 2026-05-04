@@ -1,20 +1,38 @@
-# Smart Inventory Optimization System
+# 📦 Smart Inventory Optimization System
 
-A machine learning-based inventory optimization system using SARIMA forecasting and EOQ model.
+A machine learning-based inventory optimization system that combines **SARIMA forecasting** with the **EOQ (Economic Order Quantity) model** to optimize inventory decisions and reduce costs.
 
-## Features
-- Demand forecasting using SARIMA
-- EOQ calculation
-- Safety stock and reorder point
-- Cost optimization visualization
-- Interactive Streamlit dashboard
+---
 
-## Run Locally
+## 📌 Project Overview
+
+This project aims to improve inventory management by forecasting demand and determining optimal order quantities. It helps in minimizing costs while maintaining efficient stock levels.
+
+---
+
+## ⚙️ Key Features
+
+- 📈 Demand forecasting using **SARIMA**
+- 📦 Economic Order Quantity (EOQ) calculation  
+- ⚠️ Safety stock and reorder point estimation  
+- 💰 Cost optimization analysis  
+- 🖥️ Interactive dashboard using **Streamlit**
+
+---
+
+## 🧰 Tech Stack
+
+- **Python** (Pandas, NumPy, Statsmodels)  
+- **Machine Learning** (SARIMA for time series forecasting)  
+- **Operations Research** (EOQ Model)  
+- **Streamlit** (for dashboard development)
+
+---
+
+## 🚀 How to Run Locally
 
 ```bash
 pip install -r requirements.txt
-python -m streamlit run app.py
+streamlit run app.py
 ```
-<img width="594" height="615" alt="1" src="https://github.com/user-attachments/assets/0ce36a5f-2871-452b-8753-da1722a0be9d" />
-<img width="681" height="682" alt="2" src="https://github.com/user-attachments/assets/031cd20a-07d6-471d-b57b-0961383b1617" />
-
+<img width="952" height="750" alt="dashboard" src="https://github.com/user-attachments/assets/db66c146-ed8e-4cf2-b64b-9d6d1afa6b3c" />
