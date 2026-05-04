@@ -35,4 +35,7 @@ This project aims to improve inventory management by forecasting demand and dete
 pip install -r requirements.txt
 streamlit run app.py
 ```
-<img width="952" height="750" alt="dashboard" src="https://github.com/user-attachments/assets/db66c146-ed8e-4cf2-b64b-9d6d1afa6b3c" />
+<h3 align="left">📊 Inventory Dashboard</h3>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/758f02ab-21f4-4931-8655-7df19bd6d0a0" width="80%" />
+</p>
